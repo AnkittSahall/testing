@@ -968,7 +968,7 @@ def apply_to_jobs(driver, job_listings, bot, message):
         'first_name': message.from_user.first_name,
         'search_keyword': search_keyword
     }
-
+# hii
     try:
         for job_listing in job_listings:
             try:
